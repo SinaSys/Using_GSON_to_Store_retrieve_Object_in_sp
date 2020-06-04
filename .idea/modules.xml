@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Using_GSON_to_Store_retrieve_Object_in_sp.iml" filepath="$PROJECT_DIR$/Using_GSON_to_Store_retrieve_Object_in_sp.iml" group="Using_GSON_to_Store_retrieve_Object_in_sp" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Using_GSON_to_Store_retrieve_Object_in_sp/app" />
+    </modules>
+  </component>
+</project>
